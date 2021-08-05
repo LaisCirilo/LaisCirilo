@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaisCirilo
+- 👋 Hi, I’m MacIntosh64, but you can call me Mac.
 - 👀 I’m interested in Data Science and Librarianship.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any cool project.
