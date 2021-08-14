@@ -16,3 +16,10 @@ Oi, eu sou a Lais!
 <p align="center"><img src="https://profile-counter.glitch.me/{MacIntosh64}/count.svg" alt="MacIntosh :: Visitor's Count" /></p>
 <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=macintosh64&show_icons=true&theme=graywhite" /></a></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macintosh64&langs_count=10&theme=graywhite&layout=compact" alt="MacIntosh :: Top Langs" /></p>
+
+### Languages:
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26"/> </a>
+</p>
