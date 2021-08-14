@@ -10,8 +10,6 @@ Oi, eu sou a Lais!
 - 🔎 No momento estou trabalhando em: [30 Dias de CSS](https://github.com/macintosh64/30diasDeCSS)
 - 📭 Quer falar comigo? Manda uma DM no Twitter :)
 
-
-
 <h4 align="center">Contador de visitas :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{MacIntosh64}/count.svg" alt="MacIntosh :: Visitor's Count" /></p>
 <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=macintosh64&show_icons=true&theme=graywhite" /></a></p>
