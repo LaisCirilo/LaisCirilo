@@ -5,7 +5,7 @@
 Oi, eu sou a Lais!
 
 - 📖 Estudante de Biblioteconomia e Ciência da Informação na Universidade de Brasília - UnB
-- 📚 Estudando atualmente Python, CSS, HTML e ciência de dados
+- 📚 Estudando atualmente Python, CSS, HTML e arquitetura de informação
 - 🤝 Gosto de criar projetos e tirar dúvidas de quem tá começando a aprender
 - 🔎 No momento estou trabalhando em: [Arquivo Web Brasileira](https://github.com/macintosh64/ArquivoWebBrasileira)
 - 📭 Quer falar comigo? Manda uma DM no Twitter :)
