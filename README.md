@@ -7,7 +7,7 @@ Oi, eu sou a Lais!
 - 📖 Estudante de Biblioteconomia e Ciência da Informação na Universidade de Brasília - UnB
 - 📚 Estudando atualmente Python, CSS, HTML e arquitetura de informação
 - 🤝 Gosto de criar projetos e tirar dúvidas de quem tá começando a aprender
-- 🔎 No momento estou trabalhando em: [Arquivo Web Brasileira](https://github.com/macintosh64/ArquivoWebBrasileira)
+- 🔎 No momento estou trabalhando em: [Biblioteca no MySQL](https://github.com/macintosh64/BibliotecaBD)
 - 📭 Quer falar comigo? Manda uma DM no Twitter :)
 
 <h4 align="center">Contador de visitas :eyes:</h4>
@@ -20,4 +20,6 @@ Oi, eu sou a Lais!
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26"/> </a>
+</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/MySQl" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="26"/> </a>
 </p>
